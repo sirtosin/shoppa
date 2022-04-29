@@ -259,7 +259,7 @@ const Cart = () => {
             <Text
               style={{
                 position: "absolute",
-                marginLeft: "3em",
+                marginLeft: "1.5em",
                 backgroundColor: "#008000",
                 padding: 2,
               }}
