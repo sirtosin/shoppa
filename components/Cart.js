@@ -20,7 +20,7 @@ const Cart = () => {
       {show ? (
         <View
           style={{
-            width: "500px",
+            width: "450px",
             height: "2000px",
             backgroundColor: "white",
             position: "absolute",
@@ -28,7 +28,7 @@ const Cart = () => {
             zIndex: "100",
             top: 0,
             right: 0,
-            marginLeft: "-300px",
+            marginLeft: "100px",
             padding: "30px",
           }}
         >
@@ -68,7 +68,7 @@ const Cart = () => {
             style={[
               tw`mt-9 bg-white shadow-lg flex flex-row items-center justify-around rounded`,
               {
-                width: "450px",
+                width: "400px",
                 height: "120px",
               },
             ]}
