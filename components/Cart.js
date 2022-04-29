@@ -21,7 +21,7 @@ const Cart = () => {
         <View
           style={{
             width: "450px",
-            height: "2000px",
+            height: "2100px",
             backgroundColor: "white",
             position: "absolute",
             boxShadow: "0 2px 2px 0px rgba(0,0,0,0.2)",
